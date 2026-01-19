@@ -92,7 +92,7 @@ Date: 2024-01-19T12:34:56
 ```
 ---
 
-## 🎯 Future Enhancements (If you want to extend)
+## 🎯 Future Enhancements 
 
 - Load questions from JSON / Database
 - Store results in MySQL
